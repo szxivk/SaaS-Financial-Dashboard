@@ -2,8 +2,7 @@
 
 ![a clean admin dashboard](design-image.png)
 
-Created a Clean/Minimal admin dashboard. My first proper React +
-Tailwind CSS Dashboard design code-along. Got extremely bored of doing The Odin Project course ,Paused it for now.
+A high-performance, responsive Admin Dashboard built for SaaS applications. Features dynamic data visualization (charts/graphs), a modular component architecture, and a fully responsive layout optimized for financial analytics.
 
 ❤️ - Followed along Tom is loading's [Tutorial](https://www.youtube.com/watch?v=vdxnBKRD7kU) - Please Like and Share.
 
